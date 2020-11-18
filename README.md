@@ -1,2 +1,2 @@
 # bash_scripts
-Some bash utility scripts
+Various bash utility scripts.
